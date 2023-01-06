@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("지현님바보")
+        print("지현님 진짜 바보였음")
         
     }
 
